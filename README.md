@@ -1,2 +1,2 @@
-# sling-gelf-appender
-GELF Logback appender for Sling, https://github.com/Moocar/ repackaging with Sling-friendly Fragment-Host
+# sling-logback-gelf
+GELF Logback appender for Sling, repackages the related https://github.com/Moocar bundles with a Sling-friendly Fragment-Host.
